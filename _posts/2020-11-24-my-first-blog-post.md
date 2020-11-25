@@ -1,6 +1,6 @@
 Esto es una prueba de texto
 ---
 title: "TU TÍTULO"
-date: AAAA-MM-DD
+date: 2020-11-25
 ---
-este es mi texto
+modificacion fecha
